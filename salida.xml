@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<mano>
+    <manoJugador>
+        <numCarta>12</numCarta>
+        <palo>CORAZONES</palo>
+    </manoJugador>
+    <manoJugador>
+        <numCarta>11</numCarta>
+        <palo>CORAZONES</palo>
+    </manoJugador>
+    <manoJugador>
+        <numCarta>2</numCarta>
+        <palo>PICAS</palo>
+    </manoJugador>
+</mano>
